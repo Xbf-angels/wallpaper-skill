@@ -1,0 +1,6 @@
+interface:
+  display_name: "韩系宠物拼贴壁纸"
+  short_description: "根据一张或多张宠物照片，生成三种韩系拼贴风格的手机壁纸"
+  default_prompt: "使用 $korean-pet-wallpaper 根据我上传的宠物照片制作韩系拼贴手机壁纸。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "path_base": "skill_root",
+  "note": "References are packaged opaque JPEGs; read selectively. No user test photos or generated user-pet images are bundled.",
+  "styles": [
+    {
+      "id": "heart-doodle",
+      "label": "黑白撕纸拼贴",
+      "recipe": "references/heart-doodle.md",
+      "default_reference": "style-heart"
+    },
+    {
+      "id": "lace-paper",
+      "label": "蕾丝星星",
+      "recipe": "references/lace-paper.md",
+      "default_reference": "style-lace"
+    },
+    {
+      "id": "cream-tape",
+      "label": "奶油胶带剪贴",
+      "recipe": "references/cream-tape.md",
+      "default_reference": "style-tape"
+    }
+  ],
+  "images": [
+    {
+      "id": "style-heart",
+      "path": "references/images/style-heart.jpg",
+      "source_reference": "成品效果-参考/2.jpg",
+      "role": "style",
+      "applicable_styles": [
+        "heart-doodle"
+      ],
+      "contains_reference_pets": true,
+      "contains_system_ui": false,
+      "contains_signature_or_watermark": false,
+      "contains_text": true,
+      "opaque": true,
+      "ready_to_compose": false,
+      "original_display_size": [
+        1290,
+        2796
+      ],
+      "packaged_size": [
+        945,
+        2048
+      ],
+      "sha256": "02c38533ee038427fd603de85b6a3cbbfdc0c7eea0f880c1d754d176deb3e2ef",
+      "use": "Style/material guidance only. Never use reference pets as user identity or copy UI, signatures, watermarks, brands or arbitrary text."
+    },
+    {
+      "id": "style-lace",
+      "path": "references/images/style-lace.jpg",
+      "source_reference": "成品效果-参考/1.jpg",
+      "role": "style",
+      "applicable_styles": [
+        "lace-paper"
+      ],
+      "contains_reference_pets": true,
+      "contains_system_ui": false,
+      "contains_signature_or_watermark": false,
+      "contains_text": true,
+      "opaque": true,
+      "ready_to_compose": false,
+      "original_display_size": [
+        1290,
+        2796
+      ],
+      "packaged_size": [
+        945,
+        2048
+      ],
+      "sha256": "f187f2e71dae5217cfd92ff9292a49e85b6936b5969246a3d5de96175e594021",
+      "use": "Style/material guidance only. Never use reference pets as user identity or copy UI, signatures, watermarks, brands or arbitrary text."
+    },
+    {
+      "id": "style-tape",
+      "path": "references/images/style-tape.jpg",
+      "source_reference": "成品效果-参考/7.png",
+      "role": "style",
+      "applicable_styles": [
+        "cream-tape"
+      ],
+      "contains_reference_pets": true,
+      "contains_system_ui": true,
+      "contains_signature_or_watermark": true,
+      "contains_text": true,
+      "opaque": true,
+      "ready_to_compose": false,
+      "original_display_size": [
+        1206,
+        2622
+      ],
+      "packaged_size": [
+        942,
+        2048
+      ],
+      "sha256": "f326adfb4a00b0871194785df018566a8225d3f74fdd40ecce1240ed79ebde1f",
+      "use": "Style/material guidance only. Never use reference pets as user identity or copy UI, signatures, watermarks, brands or arbitrary text."
+    },
+    {
+      "id": "elements-monochrome",
+      "path": "references/images/elements-monochrome.jpg",
+      "source_reference": "搭配元素-参考/1 (7).png",
+      "role": "decoration_board",
+      "applicable_styles": [
+        "lace-paper"
+      ],
+      "contains_reference_pets": false,
+      "contains_system_ui": false,
+      "contains_signature_or_watermark": false,
+      "contains_text": true,
+      "opaque": true,
+      "ready_to_compose": false,
+      "original_display_size": [
+        1152,
+        2048
+      ],
+      "packaged_size": [
+        1152,
+        2048
+      ],
+      "sha256": "1d00c2b60b1c09c526c914eb28648737c632577c8c2f5e9a9c6b1f164ff613d6",
+      "use": "Style/material guidance only. Never use reference pets as user identity or copy UI, signatures, watermarks, brands or arbitrary text."
+    }
+  ]
+}
