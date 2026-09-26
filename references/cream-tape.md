@@ -1,4 +1,4 @@
-# D 奶油胶带剪贴 / cream-tape
+# C 奶油胶带剪贴 / cream-tape
 
 代表图：`references/images/style-tape.jpg`（带锁屏界面的截图）。只学习紙底、边缘、胶带、涂鸦、字块与留白。路径相对技能根目录。
 

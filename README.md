@@ -10,7 +10,7 @@
 |---|---|---|
 | A | 黑白撕纸拼贴 | 暖米色纸底，撕纸边缘，胶带/星星/线圈/便签围绕主体，黑白配色 |
 | B | 蕾丝星星 | 白色纤维纸底，上下蕾丝花边+蝴蝶结，装饰元素按比例围绕主体，冷色调 |
-| D | 奶油胶带剪贴 | 暖奶油色纸底，大面积留白，胶带+铅笔涂鸦+剪报文字，极简风格 |
+| C | 奶油胶带剪贴 | 暖奶油色纸底，大面积留白，胶带+铅笔涂鸦+剪报文字，极简风格 |
 
 ## 效果
 
@@ -34,7 +34,7 @@ korean-pet-wallpaper/
 ├── references/
 │   ├── heart-doodle.md   # A 风格配方
 │   ├── lace-paper.md     # B 风格配方
-│   ├── cream-tape.md     # D 风格配方
+│   ├── cream-tape.md     # C 风格配方
 │   ├── photo-and-identity.md  # 照片选择与身份规则
 │   ├── generation-and-quality.md  # 生成与质量检查规范
 │   ├── reference-index.json   # 参考图索引
