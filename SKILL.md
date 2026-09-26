@@ -1,6 +1,6 @@
 ---
 name: korean-pet-wallpaper
-description: 根据用户上传的一张或多张宠物照片，生成或局部修改韩系照片拼贴手机壁纸，支持黑白撕纸拼贴、蕾丝星星、奶油胶带剪贴三种风格。适用于宠物壁纸、指定参考款和三款套图；仅分析或索要提示词时完成对应阶段，不自动用于普通宠物修图、商业海报或风景拼贴。
+description: 根据用户上传的一张或多张宠物照片，生成或局部修改韩系照片拼贴手机壁纸，支持便签撕纸、韩系撕纸、奶油胶带三种风格。适用于宠物壁纸、指定参考款和三款套图；仅分析或索要提示词时完成对应阶段，不自动用于普通宠物修图、商业海报或风景拼贴。
 ---
 
 # 韩系宠物拼贴壁纸
@@ -22,9 +22,9 @@ description: 根据用户上传的一张或多张宠物照片，生成或局部�
 
 | 编号 / style_id | 名称 | 适合输入 | 配方 |
 |---|---|---|---|
-| A / heart-doodle | 黑白撕纸拼贴 | 单张各种形态（特写/全身均可） | [A](references/heart-doodle.md) |
-| B / lace-paper | 蕾丝星星 | 单张头像、半身、完整姿态 | [B](references/lace-paper.md) |
-| C / cream-tape | 奶油胶带剪贴 | 单张，偏简洁锁屏 | [C](references/cream-tape.md) |
+| A / heart-doodle | 便签撕纸 | 单张各种形态（特写/全身均可） | [A](references/heart-doodle.md) |
+| B / lace-paper | 韩系撕纸 | 单张头像、半身、完整姿态 | [B](references/lace-paper.md) |
+| C / cream-tape | 奶油胶带 | 单张，偏简洁锁屏 | [C](references/cream-tape.md) |
 
 用户指定参考优先。未指定时：一张选 A/B，明确要极简选 C。
 

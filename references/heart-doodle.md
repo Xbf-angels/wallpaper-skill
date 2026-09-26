@@ -1,4 +1,4 @@
-# A 黑白撕纸拼贴 / mono-tear-collage
+# A 便签撕纸 / mono-tear-collage
 
 代表图：`references/images/style-heart.jpg`。路径相对技能根目录。
 

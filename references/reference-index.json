@@ -5,19 +5,19 @@
   "styles": [
     {
       "id": "heart-doodle",
-      "label": "黑白撕纸拼贴",
+      "label": "便签撕纸",
       "recipe": "references/heart-doodle.md",
       "default_reference": "style-heart"
     },
     {
       "id": "lace-paper",
-      "label": "蕾丝星星",
+      "label": "韩系撕纸",
       "recipe": "references/lace-paper.md",
       "default_reference": "style-lace"
     },
     {
       "id": "cream-tape",
-      "label": "奶油胶带剪贴",
+      "label": "奶油胶带",
       "recipe": "references/cream-tape.md",
       "default_reference": "style-tape"
     }

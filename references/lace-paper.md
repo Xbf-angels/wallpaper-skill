@@ -1,4 +1,4 @@
-# B 蕾丝星星 / lace-paper
+# B 韩系撕纸 / lace-paper
 
 代表图：`references/images/style-lace.jpg`。装饰素材位于 `assets/lace-paper/` 目录。
 
